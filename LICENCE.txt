@@ -1,0 +1,15 @@
+UX Central Governance
+Copyright 2026 Sebastian Bourges
+
+This guide and every file in it are licensed under the Creative Commons
+Attribution 4.0 International licence (CC BY 4.0).
+
+You may copy, share and adapt the files for any purpose, including
+commercially, as long as you:
+- credit the author, Sebastian Bourges,
+- link to the licence, and
+- say whether you made changes.
+
+Licence text: https://creativecommons.org/licenses/by/4.0/
+Source files: https://github.com/sb-simplifyUX/UXCentral-Governance
+The guide: https://sebastianbourges.com/guides/ux-central-governance/

@@ -1,0 +1,29 @@
+# Hidden files and folders stay on the machine that made them.
+.*
+!.gitignore
+
+# Claude Code instructions and settings are local and never published.
+CLAUDE.md
+CLAUDE.local.md
+
+# Editor workspace files.
+*.code-workspace
+
+# Operating system files. The macOS and Linux ones that start with a dot are
+# already caught by the first rule above.
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+*.lnk
+*.stackdump
+# macOS (the folder icon file is named "Icon" plus a carriage return)
+Icon[!a-zA-Z0-9._-]
+Network Trash Folder
+Temporary Items
+# Linux and editor backups
+*~
